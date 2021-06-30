@@ -1,7 +1,7 @@
 # TODO:
 
 1. ~~open website~~
-2. check if ps5 is in stock
+2. ~~check if ps5 is in stock~~
 
 ### In stock:
 1. check price
